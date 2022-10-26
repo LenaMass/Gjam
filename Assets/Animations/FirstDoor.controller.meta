@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Scenes/Scientist  Room/LightingData.asset.meta
+guid: 4bf8bdd9e284e1c439f744e7f5d05786
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+========
+guid: 885c593993d3db34b87e8c710af2abc1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+>>>>>>>> Hanin's-new-branch:Assets/Animations/FirstDoor.controller.meta
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
